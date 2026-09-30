@@ -2,7 +2,7 @@
   <img src="Media/Header.png" alt="Toys' Arise" width="100%">
 </p>
 
-\# Toys' Arise
+# Toys' Arise
 
 
 
@@ -13,15 +13,24 @@ Toys' Arise is a game developed as a team project using Unity and C#.
 This repository serves as a portfolio showcase and contains only the scripts that I personally developed for the project. Other team members' source code and project assets are not included.
 
 
-**Play the game:** [Toys' Arise on itch.io](https://irembuyuksahin.itch.io/toyss-arise)
+[![Play on itch.io](https://img.shields.io/badge/Play%20on-itch.io-FA5C5C?logo=itchdotio&logoColor=white)](https://irembuyuksahin.itch.io/toyss-arise)
+
+## Gameplay Video
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=1h3XsVnt1lc">
+    <img src="https://img.shields.io/badge/▶_WATCH-GAMEPLAY-red?style=for-the-badge" alt="Watch Gameplay">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=1h3XsVnt1lc">
+    <img src="Media/screenshot _1.png" alt="Toys' Arise Gameplay Video" width="90%">
+  </a>
+</p>
 
 
-## Gameplay
-
-[![Toys' Arise Gameplay](https://img.youtube.com/vi/1h3XsVnt1lc/maxresdefault.jpg)](https://www.youtube.com/watch?v=1h3XsVnt1lc)
-
-
-\## My Contributions
+## My Contributions
 
 
 
@@ -38,23 +47,17 @@ My contributions to the project focused on gameplay systems, enemy behavior, UI,
 ## Screenshots
 
 <p align="center">
-  <img src="Media/screenshot_4.png" alt="Toys' Arise Gameplay" width="90%">
+  <img src="Media/screenshot _4.png" alt="Toys' Arise Gameplay" width="49%">
+  <img src="Media/screenshot _1.png" alt="Toys' Arise Shop" width="49%">
 </p>
 
 <p align="center">
-  <img src="Media/screenshot_1.png" alt="Toys' Arise Shop" width="90%">
-</p>
-
-<p align="center">
-  <img src="Media/screenshot_2.png" alt="Toys' Arise Shop UI" width="90%">
-</p>
-
-<p align="center">
-  <img src="Media/screenshot_3.png" alt="Toys' Arise Grid Placement System" width="90%">
+  <img src="Media/screenshot _2.png" alt="Toys' Arise Shop UI" width="49%">
+  <img src="Media/screenshot _3.png" alt="Toys' Arise Grid Placement System" width="49%">
 </p>
 
 
-\## Technologies
+## Technologies
 
 
 \- Unity
@@ -63,7 +66,7 @@ My contributions to the project focused on gameplay systems, enemy behavior, UI,
 
 
 
-\## Source Code
+## Source Code
 
 
 
